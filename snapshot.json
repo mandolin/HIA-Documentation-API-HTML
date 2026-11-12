@@ -1,0 +1,16 @@
+{
+  "site": "html-api",
+  "publicationRepository": "mandolin/HIA-Documentation-API-HTML",
+  "repository": "mandolin/HIA-Documentation",
+  "commit": "9d6ca5aedb2049b6041eb6b0e6c13a180a0623d4",
+  "registrySha256": "687be682c1c28a27e3a824ff84087958f4e19977942fd268c2717d4d8488dc87",
+  "tag": "html-api-9d6ca5a",
+  "asset": "html-api-9d6ca5a.tar.gz",
+  "gzipSha256": "d43e09ad014e62299fb885963465c480297ee00b4665f6c2d929a795826ccf88",
+  "tarSha256": "b1b66172919af2d516db225ab57a70d0ae9b70e47a55b76cb3cfaaf1d3535228",
+  "tarBytes": 134717440,
+  "reportSha256": "ae0e82cd8aae5548a8c39364bd5a3129cd2d65e8a7d1a55ddfa317ef02628b1d",
+  "files": 8094,
+  "bytes": 128404903,
+  "entriesPerLocale": 647
+}
