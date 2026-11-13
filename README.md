@@ -21,6 +21,12 @@ To update the site, build the source repository, validate both locales, publish 
 
 本仓库发布HIA自身生成的HTML文档工具八包API，包含完整原生注释、签名、四份公开JSON资源、静态声明数据和授权完整源码。源仓负责正常生成与验证，本仓维护固定归档、公开说明和Pages工作流，系统文档版本按实际预览或发布状态显示。
 
+## Command reference
+
+The generated reference includes `htmdoc` and `htmdoc-handoff`, retaining their independent parsing and output rules. It provides localized usage, package and version identities, defaults, examples, exit results, static pages and authorized declaration-source links. Native descriptions, parser observations and original HIA documents remain available under `commands/` beside the independent website projection. Source positions are declaration-line anchors.
+
+中文。本站增加htmdoc与htmdoc-handoff两个独立入口及参数，保留双语说明、包与版本身份、默认规则、示例、退出结果、无脚本页面及授权源码。commands目录独立保存原生描述、解析观察、原文档和网页投影，源码位置按声明行锚点解释。
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
